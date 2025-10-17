@@ -87,6 +87,8 @@ This script:
 
 **Note**: To try a different model, replace the `RandomForestClassifier` in `train.py` with another algorithm, like `LogisticRegression`.
 
+![result of training ML Email Threat Classifier](training_image.jpg)
+
 ### **Step 4: Make Predictions**
 Predict phishing emails using the `predict.py` script:
 ```bash
@@ -95,6 +97,8 @@ python src/predict.py
 This script:
 - Loads the trained model (`phishing_detector.pkl`) and vectorizer.
 - Takes input email content from the user and predicts whether it’s phishing or legitimate.
+
+![result of prediction ML Email Threat Classifier](prediction_image.jpg)
 
 ### **Step 4: Run the Web Interface**
 To run the Web Server using the `app.py` script:
