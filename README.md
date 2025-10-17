@@ -113,7 +113,7 @@ app.py uses the trained model (phishing_detector.pkl) and vectorizer (preprocess
 
 ## **Demo Image**
 
-demo_image.jpg
+![Demo of ML Email Threat Classifier](images/demo_image.jpg)
 
 ---
 
