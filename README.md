@@ -15,6 +15,7 @@ This project builds a machine learning-based system to detect phishing emails. I
   - [Step 3: Train the Model](#step-3-train-the-model)
   - [Step 4: Make Predictions](#step-4-make-predictions)
   - [Step 5: Run the Web Interface](#step-5-run-the-web-interface)
+- [Demo Image](#demo-image)
 - [How It Works](#how-it-works)
 
 ---
@@ -107,6 +108,12 @@ Paste email content in the input box and click Check Email Content.
 The interface will return "Phishing" or "Not Phishing".
 
 app.py uses the trained model (phishing_detector.pkl) and vectorizer (preprocessed_data.pkl) to provide real-time predictions.
+
+---
+
+## **Demo Image**
+
+demo_image.png
 
 ---
 
