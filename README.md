@@ -49,7 +49,7 @@ This project detects phishing emails using machine learning. It involves several
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/ml-email-threat-classifier.git
+git clone https://github.com/zaidzyy/ml-email-threat-classifier.git
 cd ml-email-threat-classifier
 
 
