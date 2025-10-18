@@ -1,6 +1,6 @@
 # **ML Email Threat Classifier**
 
-This project builds a machine learning-based system to detect phishing emails. It uses Natural Language Processing (NLP) for text vectorization and a Random Forest classifier to classify emails as phishing or legitimate. The goal is to help users and organizations automatically identify phishing attempts based on email content. <br> Author-Mohammed Zaid
+This project builds a machine learning-based system to detect phishing emails. It uses Natural Language Processing (NLP) for text vectorization and a Random Forest classifier to classify emails as phishing or legitimate. The goal is to help users and organizations automatically identify phishing attempts based on email content.
 
 ---
 
