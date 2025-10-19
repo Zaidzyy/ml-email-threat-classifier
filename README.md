@@ -5,7 +5,6 @@ This project builds a machine learning-based system to detect phishing emails. I
 ---
 
 ## **Table of Contents**
-- [Project Overview](#project-overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
@@ -16,12 +15,6 @@ This project builds a machine learning-based system to detect phishing emails. I
   - [Step 4: Make Predictions](#step-4-make-predictions)
   - [Step 5: Run the Web Interface](#step-5-run-the-web-interface)
 - [How It Works](#how-it-works)
-
----
-
-## **Project Overview**
-
-This project detects phishing emails using machine learning. It involves several steps, including preprocessing raw email data, training a model using a labeled dataset, and using that model to predict whether new emails are phishing or legitimate.
 
 ---
 
